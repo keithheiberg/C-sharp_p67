@@ -1,0 +1,7 @@
+C:\Users\Keith\source\repos\C-sharp_p67\C-sharp_p67\bin\Debug\C-sharp_p67.exe.config
+C:\Users\Keith\source\repos\C-sharp_p67\C-sharp_p67\bin\Debug\C-sharp_p67.exe
+C:\Users\Keith\source\repos\C-sharp_p67\C-sharp_p67\bin\Debug\C-sharp_p67.pdb
+C:\Users\Keith\source\repos\C-sharp_p67\C-sharp_p67\obj\Debug\C-sharp_p67.csprojAssemblyReference.cache
+C:\Users\Keith\source\repos\C-sharp_p67\C-sharp_p67\obj\Debug\C-sharp_p67.csproj.CoreCompileInputs.cache
+C:\Users\Keith\source\repos\C-sharp_p67\C-sharp_p67\obj\Debug\C-sharp_p67.exe
+C:\Users\Keith\source\repos\C-sharp_p67\C-sharp_p67\obj\Debug\C-sharp_p67.pdb
